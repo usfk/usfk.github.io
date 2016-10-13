@@ -1,0 +1,59 @@
+body {
+	background:url("background.jpg") fixed center right no-repeat;	
+}
+
+#container {
+	margin: 0 auto;
+	text-align: center;	
+}
+#isi{
+	text-align: left;
+	margin: 0 auto;
+	font-size: 12px;
+	line-height: 16px;
+	font-family: verdana,tahoma,arial,sans-serif,"Lucida Sans";
+	color: #9C7479;
+	display: block;
+	margin-top: 5px;
+	border-width: 2px;
+	border-color: #3B2F2F;
+	border-bottom: solid;
+	border-left: solid;
+	padding: 5px;
+	width: 600px;
+}
+
+#irc a:link  a:hover  a:visited{
+	color: black;
+	text-decoration: none;
+}
+
+#header {
+	text-align: center;
+}
+
+h1{
+	color: #3B2F2F;
+	font-size: 24px;
+	line-height: 28px;
+}
+
+#header2 .span1{
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: 700;
+	padding-top: 20px;
+	color: #3B2F2F;
+}
+
+#disqus_thread {
+    margin-top: 10px;
+    padding: 0 20%;   
+	display: block;
+	margin-top: 5px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #H3B2F2F;
+	padding: 5px;
+	width: 600px;
+}
